@@ -10722,3 +10722,9 @@ textarea.form-control-lg {
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
+
+/* 自作CSS  */
+
+.form-width-md{
+  width: 60%;
+}
